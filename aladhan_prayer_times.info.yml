@@ -8,8 +8,6 @@ core: 8.x
 dependencies:
   datetime: datetime
   link: link
-  aladhan:api-client
-  drupal: views
 
 configure: aladhan_prayer_times.settings
 
