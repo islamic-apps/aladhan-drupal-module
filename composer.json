@@ -5,6 +5,6 @@
     "license": "GPL-2.0+",
     "minimum-stability": "dev",
     "require": {
-        "aladhan/api-client": "^1.0"
+        "aladhan/api-client": "1.1"
     }
 }
