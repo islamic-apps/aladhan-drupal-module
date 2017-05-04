@@ -2,6 +2,9 @@
 
 namespace Drupal\aladhan_prayer_times\Plugin\Block;
 
+$localAutoloader = realpath(__DIR__ . '/../../../vendor/autoload.php');
+require_once($localAutoloader);
+
 use Drupal\Core\Block\BlockBase;
 
 /**
